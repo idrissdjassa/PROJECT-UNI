@@ -1,0 +1,44 @@
+body{
+    background-color:lightgray;
+    font-family:'Manroque',sans-serif;
+    font-size:1em;
+
+}
+.Starklink{
+    color:cadetblue
+
+
+}
+.Neuralink{
+
+
+    background-image: url('https://media.licdn.com/dms/image/D4E03AQF1py78psb4fA/profile-displayphoto-shrink_800_800/0/1674685135083?e=2147483647&v=beta&t=v1g2EoArH7_ZqifLGt3jFZyFo9lXKb1j5Uea01yr47A"alt ="Image" height="800" width="1200"')
+    
+    
+}
+.space.x{
+    padding:100px;
+    background-image: url('paysage.jpg');
+    
+    background:linear-gradient(90deg,#8360c3,#2ebf91);
+}
+.synthesia{
+    color:cadetblue
+
+}
+.deep{
+    color:cadetblue
+}
+.symphonie{ 
+    color:cadetblue
+}
+em{
+    color: #a5be4f;
+    font-style:normal;
+}
+.mars{
+    color:cadetblue
+}
+.venus{
+    color:indianred
+}
